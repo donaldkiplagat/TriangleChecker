@@ -24,3 +24,10 @@ var a= parseFloat(prompt("Enter side A: "));
             else if((a+b)>=c || (b+c)>=a || (a+c)>=b){
               alert("Scalene");
             }
+            else{
+              alert("Ensure you enter a value in each field");
+            }
+          }
+        }
+      }
+}
