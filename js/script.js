@@ -14,4 +14,3 @@ var a= parseFloat(prompt("Enter side A: "));
           }else{
             if((a+b)<=c || (b+c)<=a || (a+c)<=b){
               alert("Not a Triangle");
-            }
