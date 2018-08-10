@@ -25,7 +25,7 @@ var a= parseFloat(prompt("Enter side A: "));
               alert("Scalene");
             }
             else{
-              alert("Ensure you enter a value in each field");
+              alert("Value entered must be a number");
             }
           }
         }
