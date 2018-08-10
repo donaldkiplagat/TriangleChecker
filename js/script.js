@@ -18,3 +18,6 @@ var a= parseFloat(prompt("Enter side A: "));
             else if(a===b && a===c && b===c){
               alert("Equilateral");
             }
+            else if(a===b || b===c || a===c){
+              alert("Isosceles");
+            }
