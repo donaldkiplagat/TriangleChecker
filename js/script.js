@@ -34,6 +34,8 @@ checker.push(parseFloat(prompt("Enter side A: ")));
 }
 
 
+//***Same code as above but using variables,not an array***
+
 // var answer=function(){
 //
 // var a= parseFloat(prompt("Enter side A: "));
