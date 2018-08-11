@@ -7,7 +7,12 @@ h1{
   text-decoration:underline;
   font-family: Arial;
 }
-
+.box{
+  border-left:2px solid #4682B4;
+  border-right: 2px solid #4682B4;
+  border-top: 2px solid #4682B4;
+  border-bottom: 2px solid #4682B4;
+}
 .top-image {
     /* The image used */
     background-image: url("../images/book.jpg");
