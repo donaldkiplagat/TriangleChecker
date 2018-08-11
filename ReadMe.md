@@ -17,41 +17,41 @@ The website contains details about each type of triangle as well as the properti
 Currently no bug has been identified.
 
 # Behaviour Driven Development
-* The program should return "Please enter a number in the field" when an empty value is entered. 
-Input Example:" "
+* The program should return "Please enter a number in the field" when an empty value is entered.<br> 
+Input Example:" "<br>
 Output Example: Please enter a number
 
-* The program should return "Value entered must be a number" when a value that isn't a number is entered.
-Input Example: "three"
-Output Example: Value entered must be a number
+* The program should return "Value entered must be a number" when a value that isn't a number is entered.<br>
+Input Example: "three"<br>
+Output Example: Value entered must be a number<br>
 
-* The program should return "Not a Triangle" when values entered don't make up a triangle.
-Input Examples: 
-Input 1: 2000
-Input 2: 40
-Input 3: 5
-Output Example: Not a triangle
+* The program should return "Not a Triangle" when values entered don't make up a triangle.<br>
+Input Examples: <br>
+Input 1: 2000<br>
+Input 2: 40<br>
+Input 3: 5<br>
+Output Example: Not a triangle<br>
 
-* The program should return "Equilateral" when values entered make up an Equilateral triangle.
-Input Examples: 
-Input 1: 20
-Input 2: 20
-Input 3: 20
-Output Example: Equilateral
+* The program should return "Equilateral" when values entered make up an Equilateral triangle.<br>
+Input Examples: <br>
+Input 1: 20<br>
+Input 2: 20<br>
+Input 3: 20<br>
+Output Example: Equilateral<br>
 
-* The program should return "Isosceles" when values entered make up an Isosceles triangle.
-Input Examples: 
-Input 1: 20
-Input 2: 20
-Input 3: 10
-Output Example: Isosceles
+* The program should return "Isosceles" when values entered make up an Isosceles triangle.<br>
+Input Examples: <br>
+Input 1: 20<br>
+Input 2: 20<br>
+Input 3: 10<br>
+Output Example: Isosceles<br>
 
-* The program should return "Scalene" when values entered make up an Equilateral triangle.
-Input Examples: 
-Input 1: 12
-Input 2: 14
-Input 3: 16
-Output Example: Scalene
+* The program should return "Scalene" when values entered make up an Equilateral triangle.<br>
+Input Examples: <br>
+Input 1: 12<br>
+Input 2: 14<br>
+Input 3: 16<br>
+Output Example: Scalene<br>
 
 ## Technologies Used
 * HTML was used in making the skeleton of the website.
